@@ -41,14 +41,14 @@
 Claude Code(Max 플랜)를 열고 저장소 링크만 붙여넣으세요:
 
 ```
-https://github.com/INTEGRITY2077/cheil-briefing-kit
+https://github.com/INTEGRITY2077/briefing-kit
 ```
 
 Claude가 이 README의 진입 절차를 읽고 소개 → 헬스체크 → **합의 카드 한 번 →
 무인 완주**로 진행합니다. 더 명시적으로 하려면:
 
 ```
-https://github.com/INTEGRITY2077/cheil-briefing-kit 를 읽고 SETUP.md 대로 내 환경에 설치해줘
+https://github.com/INTEGRITY2077/briefing-kit 를 읽고 SETUP.md 대로 내 환경에 설치해줘
 ```
 
 사용자가 하는 일은 카드 하나에 답하는 것뿐입니다 — 무인 실행 권한 목록에 동의하고

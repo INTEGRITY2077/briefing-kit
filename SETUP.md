@@ -311,7 +311,7 @@ brew 는 winget 과 대등한 무인 설치 경로다. winget 이
 
 ## 1. 저장소 받기
 ```
-git clone https://github.com/INTEGRITY2077/cheil-briefing-kit <설치 위치>
+git clone https://github.com/INTEGRITY2077/briefing-kit <설치 위치>
 ```
 git 이 없으면 사다리 순서로 처리한다:
 1. **0-2 의 자동 설치로 git 을 설치한 뒤 clone 한다** — 이것이 기본 경로다.

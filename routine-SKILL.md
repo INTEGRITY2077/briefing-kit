@@ -601,7 +601,7 @@ fmtbar 링크가 남에게 404다 (2026-08-11 실측: 발표판이 private 인 �
 **원작 저장소에 쓰기 권한이 없는 설치본, 또는 zip 설치(.git 없음)는 이 절 전체를 건너뛰고
 보고에 "저장소 동기화 해당 없음"이라고 남긴다.** 자기 포크가 있으면 포크로 push 한다.
 이 문서(SKILL)나 `templates/`, `tools/`, `profiles/` 가 바뀌었으면, 루틴 마지막에
-킷 저장소(https://github.com/INTEGRITY2077/cheil-briefing-kit)에 반영한다:
+킷 저장소(https://github.com/INTEGRITY2077/briefing-kit)에 반영한다:
 1. 이 문서를 킷의 `routine-SKILL.md` 로 복사한다 (경로는 원본 유지 — 설치자가 치환한다)
 2. `git add -A && git commit -m "규칙 갱신: <한 줄 요약>" && git push`
 3. push 실패(인증 등)면 조작하지 말고 보고에 "저장소 동기화 실패"라고 남긴다
